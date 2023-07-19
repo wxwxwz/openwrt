@@ -260,7 +260,7 @@ endef
 TARGET_DEVICES += mediatek_mt7628an-eval-board
 
 define Device/mercury_mac1200r-v2
-  IMAGE_SIZE := 7936k
+  IMAGE_SIZE := 15872k
   DEVICE_VENDOR := Mercury
   DEVICE_MODEL := MAC1200R
   DEVICE_VARIANT := v2.0
